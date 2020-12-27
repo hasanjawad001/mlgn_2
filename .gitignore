@@ -1,1 +1,4 @@
 other*
+.ipynb*
+*.ipynb
+.ipynb_checkpoints/*
